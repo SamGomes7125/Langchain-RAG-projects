@@ -31,6 +31,8 @@ As I progress through my curriculum, I am actively refining my proficiency in:
 
 ## 📬 Connect With Me
 
-I am documenting my progress here as I learn. Feel free to explore the code, star the repo, or reach out to discuss AI development!
+I am a **final-year student at RMIT University** and am currently seeking **internship, graduate program, or early-career opportunities** in Australia. 
+
+I am documenting my progress here as I learn. Feel free to explore the code, star the repo, or reach out to discuss AI development or career opportunities!
 
 * **LinkedIn:** https://www.linkedin.com/in/swarnabha-ghosh777/
