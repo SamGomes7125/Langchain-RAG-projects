@@ -36,3 +36,4 @@ I am a **final-year student at RMIT University** and am currently seeking **inte
 I am documenting my progress here as I learn. Feel free to explore the code, star the repo, or reach out to discuss AI development or career opportunities!
 
 * **LinkedIn:** https://www.linkedin.com/in/swarnabha-ghosh777/
+* **Email:** swarnabhaghosh2005@gmail.com
