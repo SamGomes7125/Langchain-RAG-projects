@@ -31,7 +31,11 @@ load_dotenv()
 embeddings = HuggingFaceEmbeddings(model_name="sentence-transformers/all-MiniLM-L6-v2")
 
 # create Deep Lake dataset
+<<<<<<< HEAD
 my_activeloop_org_id = "swarnabhaghosh2005"
+=======
+my_activeloop_org_id = "<YOUR-ACTIVELOOP-ORG-ID>"
+>>>>>>> 90766b6062f9048643e947409c48f3872651c3d0
 my_activeloop_dataset_name = "langchain_course_customer_support"
 dataset_path = f"hub://{my_activeloop_org_id}/{my_activeloop_dataset_name}"
 
@@ -83,4 +87,8 @@ llm = ChatGroq(
     temperature=0,
 )
 answer = llm.invoke(prompt_formatted)
+<<<<<<< HEAD
 print(answer)
+=======
+print(answer)
+>>>>>>> 90766b6062f9048643e947409c48f3872651c3d0
